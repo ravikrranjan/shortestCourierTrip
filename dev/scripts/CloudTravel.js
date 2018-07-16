@@ -1,6 +1,6 @@
 const  RADIUS  = 4000;//miles
 class CloudTravel {
-  constructor(latitude, longitude, canTravel) {
+  constructor() {
     this.airPortList = {};
     this.path = [];
   }
